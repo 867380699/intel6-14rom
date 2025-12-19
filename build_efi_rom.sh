@@ -52,3 +52,5 @@ ls
 ls
 ./EfiRom -e nb-13-13700h.efi IgdAssignmentDxe.efi PlatformGopPolicy.efi -f 0x8086 -i 0xffff -o nb-13-13700h-q10.rom
 ls
+./EfiRom -e erying_skyline_13600h.efi IgdAssignmentDxe.efi PlatformGopPolicy.efi -f 0x8086 -i 0xffff -o erying-skyline-13600h.rom
+ls
